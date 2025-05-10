@@ -84,7 +84,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/IlyaSocolovsk-QA/IlyaSocolovsk-QA/refs/heads/main/diplom.png.)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/IlyaSokolovsky-QA/IlyaSokolovsky-QA/refs/heads/main/diplom.png.)
 
 <br>
 <br>
