@@ -80,7 +80,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/IlyaSokolovsky-QA/IlyaSokolovsky-QA/refs/heads/main/internship.png)
+[<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/IlyaSokolovsky-QA/IlyaSokolovsky-QA/refs/heads/main/internship.png)
 
 <br>
 
